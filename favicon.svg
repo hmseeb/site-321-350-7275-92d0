@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="US 1 Roofing and Repairs favicon">
+  <rect width="64" height="64" rx="12" fill="#0b2545"/>
+  <path d="M32 12 54 30v4L32 18 10 34v-4z" fill="#f5821f"/>
+  <path d="M32 22 50 36v3L32 28 14 39v-3z" fill="#f5821f" opacity=".85"/>
+  <rect x="18" y="40" width="28" height="4" rx="2" fill="#ffffff"/>
+  <rect x="18" y="48" width="20" height="4" rx="2" fill="#ffffff" opacity=".7"/>
+</svg>
